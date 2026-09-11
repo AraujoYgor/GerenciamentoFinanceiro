@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|d:\\projetos\\cristech\\gerenciamentofinanceiro\\controllers\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|solutionrelative:controllers\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|d:\\projetos\\cristech\\gerenciamentofinanceiro\\models\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|solutionrelative:models\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Filtros.cs",
+              "DocumentMoniker": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Controllers\\Filtros.cs",
+              "RelativeDocumentMoniker": "Controllers\\Filtros.cs",
+              "ToolTip": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Controllers\\Filtros.cs",
+              "RelativeToolTip": "Controllers\\Filtros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T02:53:04.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Filtros.cs",
               "DocumentMoniker": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Models\\Filtros.cs",
               "RelativeDocumentMoniker": "Models\\Filtros.cs",
