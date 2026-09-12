@@ -12,12 +12,12 @@ namespace GerenciamentoFinanceiro.Models
         public string CategoriaId { get; set; }
 
         [ValidateNever]
-        public Categoria Categoria{ get; set; }
+        public Categoria categoria{ get; set; }
 
         public string TransacaoId { get; set; }
 
         [ValidateNever]
-        public string Transacao { get; set; }
+        public string transacao { get; set; }
 
     }
 }
