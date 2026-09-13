@@ -24,7 +24,9 @@ namespace GerenciamentoFinanceiro.Controllers
             ViewBag.Categorias = _context.Categorias.ToList();
             ViewBag.Transacoes = _context.Transacoes.ToList();
 
-            IQueryable<Financeiro> consulta = _context.Finacas.Include(x => x.transacao).Include(x => x.categoria);
+            IQueryable<Financeiro> consulta = _context.Finacas
+                                                        .Include(x=> x.transacao)
+                                                        .Include(x => x.categoria);
 
             if (filtros.TemCategoria)
             {
@@ -53,9 +55,9 @@ namespace GerenciamentoFinanceiro.Controllers
                 }
             }  
 
-            var financas = consulta.OrderBy(d => d.DataDaOperacao).ToList();
+            var finacas = consulta.OrderBy(d => d.DataDaOperacao).ToList();
 
-            return View(financas);
+            return View(finacas);
         }
 
     }

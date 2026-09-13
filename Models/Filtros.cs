@@ -27,15 +27,15 @@
         public static Dictionary<string, string> ValoresDataOperacao =>
             new Dictionary<string, string>
             {
-                {"mes-anterior", "Mês Passado" },
-                {"proximo-mes", "Proximo Mês" },
-                {"este-mes", "Este Mês" }
+                {"passado", "Passado" },
+                {"futuro", "Futuro" },
+                {"hoje", "Hoje" }
 
             };
 
-        public bool EPassado => DataOperacao.ToLower() == "mes-anterior";
-        public bool EFuturo => DataOperacao.ToLower() == "proximo-mes";
-        public bool EesseMes => DataOperacao.ToLower() == "este-mes";
+        public bool EPassado => DataOperacao.ToLower() == "passado";
+        public bool EFuturo => DataOperacao.ToLower() == "futuro";
+        public bool EesseMes => DataOperacao.ToLower() == "hoje";
 
 
     }

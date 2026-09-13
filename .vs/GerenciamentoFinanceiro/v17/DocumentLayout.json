@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|d:\\projetos\\cristech\\gerenciamentofinanceiro\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|d:\\projetos\\cristech\\gerenciamentofinanceiro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|solutionrelative:models\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|d:\\projetos\\cristech\\gerenciamentofinanceiro\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|solutionrelative:models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|d:\\projetos\\cristech\\gerenciamentofinanceiro\\models\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|solutionrelative:models\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|d:\\projetos\\cristech\\gerenciamentofinanceiro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6163D43-0C12-4276-91CC-FCF19026B20A}|GerenciamentoFinanceiro.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,46 +37,85 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Financeiro.cs",
-              "DocumentMoniker": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Models\\Financeiro.cs",
-              "RelativeDocumentMoniker": "Models\\Financeiro.cs",
-              "ToolTip": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Models\\Financeiro.cs",
-              "RelativeToolTip": "Models\\Financeiro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T02:20:52.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T02:04:55.143Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T02:28:55.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Filtros.cs",
               "DocumentMoniker": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Models\\Filtros.cs",
               "RelativeDocumentMoniker": "Models\\Filtros.cs",
               "ToolTip": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Models\\Filtros.cs",
               "RelativeToolTip": "Models\\Filtros.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCUAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T01:08:01.718Z",
+              "WhenOpened": "2026-09-13T02:25:09.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Models\\Transacao.cs",
+              "RelativeDocumentMoniker": "Models\\Transacao.cs",
+              "ToolTip": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Models\\Transacao.cs",
+              "RelativeToolTip": "Models\\Transacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T02:20:24.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Financeiro.cs",
+              "DocumentMoniker": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Models\\Financeiro.cs",
+              "RelativeDocumentMoniker": "Models\\Financeiro.cs",
+              "ToolTip": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Models\\Financeiro.cs",
+              "RelativeToolTip": "Models\\Financeiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T02:16:58.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T02:12:54.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Projetos\\CrisTech\\GerenciamentoFinanceiro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-13T02:12:29.302Z",
               "EditorCaption": ""
             }
           ]
